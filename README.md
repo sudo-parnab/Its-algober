@@ -1,6 +1,6 @@
 # **It's Algober: Your Hacktoberfest Starter Pack**
 
-<a href="https://hacktoberfest.com/" ><img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--footer.cc639da3.svg" ></a>
+<a href="https://hacktoberfest.com/" ><img src="Its-hacktober Banner.png" ></a>
 
 > Tap the banner to know more about Hacktoberfest 2024.
 
@@ -11,7 +11,7 @@ Welcome to our community! Whether you're a seasoned programmer, a dedicated DSA 
 
 **Don't worry if you're new to open source.** Everyone starts somewhere! We're here to support and guide you every step of the way. 
 
->  <a href="https://chat.whatsapp.com/HfqDn52yy6l8T2d6fL0hKU" ></a><img src="https://logos-world.net/wp-content/uploads/2020/05/Logo-WhatsApp.png" width="22px" >**Join our [Its Algober WhatsApp Group](https://chat.whatsapp.com/HfqDn52yy6l8T2d6fL0hKU) for more updates.**</a>
+>  <a href="https://chat.whatsapp.com/HfqDn52yy6l8T2d6fL0hKU" ></a><img src="https://logos-world.net/wp-content/uploads/2020/05/Logo-WhatsApp.png" width="22px" >**Join our [Its Hacktober WhatsApp Group](https://chat.whatsapp.com/HfqDn52yy6l8T2d6fL0hKU) for more updates.**</a>
 
 ### **How to Get Started:**
 
@@ -38,7 +38,7 @@ Welcome to our community! Whether you're a seasoned programmer, a dedicated DSA 
 
 ### **Encountering Issues?**
 
-If you're facing any problems, ask on [Its Algober WhatsApp Group](https://chat.whatsapp.com/HfqDn52yy6l8T2d6fL0hKU)
+If you're facing any problems, ask on [Its Hacktober WhatsApp Group](https://chat.whatsapp.com/HfqDn52yy6l8T2d6fL0hKU)
 
 Our community is here to help! Feel free to ask questions, seek advice, or collaborate on solutions.
 
