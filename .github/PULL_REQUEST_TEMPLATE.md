@@ -7,10 +7,14 @@
 <!-- Write your description according to the instructions and delete these two instruction lines -->
 
 ## Type of change
-- [ ] New Project
-- [ ] Issue fix (issue number: <!-- write issue number here -->)
+- [ ] New Project 
+- [ ] New Feature 
+- [ ] Bug fix
 <!-- Put X in the correct [] box 
 Example - [X] New Project (there should not be a space before or after X) -->
+
+Issue number:
+<!-- To have your Pull Request (PR) accepted, linking it to an issue is mandatory. If you submit a PR without first raising an issue (whether it's for a new project, feature, or bug report), your PR will be rejected. Please ensure you create an issue before making a PR.  -->
 
 # Checklist:
 
