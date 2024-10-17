@@ -1,19 +1,23 @@
 numbers = []
-flag = False
-number_of_values = int(input("The number of values to enter "))
+found = False
+number_of_values = int(input("Enter the number of values to enter: "))
 
+# Taking input and appending to the list
 for i in range(number_of_values):
-    x = int(input("Enter a number "))
-    numbers.append(x)
-    
-value = int(input("Enter a number to seach for"))
+    number = int(input(f"Enter number {i + 1}: "))
+    numbers.append(number)
 
-for i in range(len(numbers)):
-    if numbers[i] == value:
-        flag = True
+# Input the value to search for
+search_value = int(input("Enter a number to search for: "))
+
+# Linear search with enumerate
+for index, number in enumerate(numbers):
+    if number == search_value:
+        found = True
         break
-    
-if flag == True:
-    print(value, "found at ", (i+1), "position")
+
+# Result
+if found:
+    print(f"{search_value} found at position {index + 1}")
 else:
     print("Number not found")
