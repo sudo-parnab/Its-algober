@@ -32,24 +32,24 @@ The program uses Python f-strings to print the result, making the output clear a
 
 ### Input:
 
-Enter the number of values to enter: 5
-Enter number 1: 10
-Enter number 2: 20
-Enter number 3: 30
-Enter number 4: 40
-Enter number 5: 50
-Enter a number to search for: 30
+- Enter the number of values to enter: 5
+- Enter number 1: 10
+- Enter number 2: 20
+- Enter number 3: 30
+- Enter number 4: 40
+- Enter number 5: 50
+- Enter a number to search for: 30
 
 ### Output:
 30 found at position 3
 
 ### Input (when the number is not found):
 
-Enter the number of values to enter: 3
-Enter number 1: 5
-Enter number 2: 15
-Enter number 3: 25
-Enter a number to search for: 10
+- Enter the number of values to enter: 3
+- Enter number 1: 5
+- Enter number 2: 15
+- Enter number 3: 25
+- Enter a number to search for: 10
 
 ### Output:
 Number not found
@@ -64,9 +64,8 @@ This implementation improves upon the original linear search by:
 ## How to Run
 ### Clone the repository:
 
-git clone https://github.com/yourusername/linear-search-python.git 
-
-cd linear-search-python
+- git clone https://github.com/yourusername/linear-search-python.git 
+- cd linear-search-python
 
 ### Run the Python script:
 python3 linear_search.py
