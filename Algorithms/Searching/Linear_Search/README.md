@@ -31,6 +31,7 @@ The program uses Python f-strings to print the result, making the output clear a
 ## Example
 
 ### Input:
+
 Enter the number of values to enter: 5
 Enter number 1: 10
 Enter number 2: 20
@@ -43,6 +44,7 @@ Enter a number to search for: 30
 30 found at position 3
 
 ### Input (when the number is not found):
+
 Enter the number of values to enter: 3
 Enter number 1: 5
 Enter number 2: 15
@@ -61,7 +63,9 @@ This implementation improves upon the original linear search by:
 
 ## How to Run
 ### Clone the repository:
-git clone https://github.com/yourusername/linear-search-python.git //
+
+git clone https://github.com/yourusername/linear-search-python.git 
+
 cd linear-search-python
 
 ### Run the Python script:
