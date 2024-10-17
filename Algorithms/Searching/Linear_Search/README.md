@@ -64,19 +64,19 @@ This implementation improves upon the original linear search by:
 ## How to Run
 ### Clone the repository:
 
-- git clone https://github.com/yourusername/linear-search-python.git 
-- cd linear-search-python
+- ``git clone https://github.com/yourusername/linear-search-python.git`` 
+- ``cd linear-search-python``
 
 ### Run the Python script:
-python3 linear_search.py
+python3 ``linear_search.py``
 
 ### Contributing
 Feel free to contribute by submitting issues, requesting new features, or making improvements. To contribute:
 1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
-3. Commit your changes (git commit -m 'Add a new feature').
-4. Push to the branch (git push origin feature-branch).
+2. Create a new branch (``git checkout -b feature-branch``).
+3. Commit your changes (``git commit -m 'Add a new feature'``).
+4. Push to the branch (``git push origin feature-branch``).
 5. Open a pull request.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the ``MIT License`` - see the LICENSE file for details.
