@@ -17,7 +17,7 @@ The algorithm compares the middle element of the list with the target:
 - If the target is smaller, the search continues in the left half of the list.
 - If the target is larger, the search continues in the right half of the list. This process repeats until the target is found or the range of possible elements is exhausted.
 
-## Output: 
+### Output: 
 If the target value is found, the program prints its position. Otherwise, it indicates that the number was not found.
 
 ## Key Features:
