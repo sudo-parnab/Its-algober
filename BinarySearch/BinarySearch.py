@@ -1,4 +1,14 @@
 def binary_search(arr, target):
+    # Type checking
+    if not isinstance(target, int):
+        raise TypeError("Target must be an integer.")
+    if not all(isinstance(item, int) for item in arr):
+        raise TypeError("Array must contain only integers.")
+    
+    # Sort validation
+    if arr != sorted(arr):
+        raise ValueError("Array must be sorted before performing binary search.")
+
     left, right = 0, len(arr) - 1
     
     while left <= right:
@@ -32,5 +42,9 @@ try:
         print(f"Element {target} found at index {result}.")
     else:
         print(f"Element {target} not found in the array.")
-except ValueError:
-    print("Invalid input. Please enter integers only.")
+except ValueError as ve:
+    print(f"Invalid input: {ve}")
+except TypeError as te:
+    print(te)
+except ValueError as ve:
+    print(ve)
