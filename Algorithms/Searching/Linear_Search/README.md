@@ -31,23 +31,25 @@ The program uses Python f-strings to print the result, making the output clear a
 ## Example
 
 ### Input:
-Enter the number of values to enter: 5
-Enter number 1: 10
-Enter number 2: 20
-Enter number 3: 30
-Enter number 4: 40
-Enter number 5: 50
-Enter a number to search for: 30
+
+- Enter the number of values to enter: 5
+- Enter number 1: 10
+- Enter number 2: 20
+- Enter number 3: 30
+- Enter number 4: 40
+- Enter number 5: 50
+- Enter a number to search for: 30
 
 ### Output:
 30 found at position 3
 
 ### Input (when the number is not found):
-Enter the number of values to enter: 3
-Enter number 1: 5
-Enter number 2: 15
-Enter number 3: 25
-Enter a number to search for: 10
+
+- Enter the number of values to enter: 3
+- Enter number 1: 5
+- Enter number 2: 15
+- Enter number 3: 25
+- Enter a number to search for: 10
 
 ### Output:
 Number not found
@@ -61,19 +63,20 @@ This implementation improves upon the original linear search by:
 
 ## How to Run
 ### Clone the repository:
-git clone https://github.com/yourusername/linear-search-python.git
-cd linear-search-python
+
+- ``git clone https://github.com/yourusername/linear-search-python.git`` 
+- ``cd linear-search-python``
 
 ### Run the Python script:
-python3 linear_search.py
+python3 ``linear_search.py``
 
 ### Contributing
 Feel free to contribute by submitting issues, requesting new features, or making improvements. To contribute:
 1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
-3. Commit your changes (git commit -m 'Add a new feature').
-4. Push to the branch (git push origin feature-branch).
+2. Create a new branch (``git checkout -b feature-branch``).
+3. Commit your changes (``git commit -m 'Add a new feature'``).
+4. Push to the branch (``git push origin feature-branch``).
 5. Open a pull request.
 
-### ŚLicense
-This project is licensed under the MIT License - see the LICENSE file for details.
+### License
+This project is licensed under the ``MIT License`` - see the LICENSE file for details.
