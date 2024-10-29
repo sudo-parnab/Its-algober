@@ -1,6 +1,6 @@
 // Java program to implement linear search in unsorted arrays
 
-class Main {
+class Search {
   
     // Function to implement
     // search operation
