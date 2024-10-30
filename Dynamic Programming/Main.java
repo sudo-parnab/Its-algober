@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-class GfG {
+class Main {
 
     // Returns length of LCS for S1[0..m-1], S2[0..n-1]
     static int lcs(String S1, String S2, int m, int n) {
