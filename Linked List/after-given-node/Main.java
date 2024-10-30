@@ -11,7 +11,7 @@ class Node {
     }
 }
 
-public class GFG {
+public class Main {
   
     // Function to insert a new node after a given node
     static Node insertAfter(Node head, int key,
