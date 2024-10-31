@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.py": "bat",
+        "iostream": "cpp"
+    }
+}
